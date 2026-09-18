@@ -1,4 +1,3 @@
-[project_readme_technical_documentation.md](https://github.com/user-attachments/files/32386396/project_readme_technical_documentation.md)
 # Project README & Technical Documentation
 
 ---
